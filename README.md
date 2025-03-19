@@ -65,6 +65,5 @@ Visualization: Tableau, Matplotlib, Seaborn
 🥏 Ultimate Frisbee Team Player & President-
 Aug 2022 – Present
 
-Lead the team and organized the Banc Run tournament, raising over $2500 for the team with 14 participating teams.
-Managed a $6500 budget for team expenses, including travel and athletic gear.
+- Organized the Banc Run tournament as well as managed the teams budget.
 
