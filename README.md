@@ -1,69 +1,40 @@
-👋 Hi, I'm Sean Kiser!
+👋 Hi, I’m Sean Kiser!
 
-🎓 Aspiring Data Scientist | 💻 Computer Science Student at UNC Charlotte
+🎓 Computer Science student at UNC Charlotte  
+💻 Aspiring Computer Scientist | Problem Solver | Builder  
 
-📍 Charlotte, NC | 📞 (919) 723-7686
-
-📧 skiser18@uncc.edu | 🔗 [LinkedIn ](https://www.linkedin.com/in/sean-kiser/)
+🔗 [LinkedIn](https://www.linkedin.com/in/sean-kiser/)  
+📧 skiser18@charlotte.edu  
 
 ---
+
 🧑‍💻 About Me
 
-I'm a Computer Science student with a concentration in Data Science at the University of North Carolina at Charlotte. I have a strong foundation in programming, data analysis, and machine learning. Passionate about transforming data into insights and solving real-world problems.
-
-📚 Education
-
-University of North Carolina at Charlotte (2022 - 2026)
-🎓 Bachelor of Science in Computer Science, Concentration in Data Science
-
-📊 GPA: 3.88 🏅 Chancellor’s List: Spring 2023 - Present
+Hey, how’s it going? I’m a computer science student with a passion for solving problems and turning ideas into real, working projects. I enjoy digging into data, building full-stack applications, and learning how things work under the hood. Ask me about my most recent project—I’m always excited to talk about what I’m building and what I’m learning next.
 
 ---
-💼 Professional Experience
 
-🏢 Information Technology Intern at Trane Technologies
-Davidson, NC — May 2024 – Aug 2024
-
-- Automated mobile phone billing reporting processes, improving efficiency and accuracy for IT Asset Management.
-- Developed a Tableau dashboard to enhance the visualization and accessibility of mobile phone data.
-- Collaborated with fellow interns and mentors to deliver impactful solutions.
-
-___
 📂 Projects
 
-🚗 Driving Tracker Web Application (CRUD Platform)
-Jan 2024 – May 2024
-- Implemented functionality for users to view all drives, showcasing detailed statistics about car make, distance traveled, date, and time elapsed.
-- Developed the commenting system allowing users to engage with drive content and share insights.
+🛒 **Niner Exchange Marketplace (Capstone)**
+- Developed and launched Niner Exchange, a secure online marketplace for UNC Charlotte students with responsive, user-friendly design.
+- Developed the full-stack architecture of Niner Exchange using React, Django, Tailwind, and PostgreSQL, building both the frontend and backend to create a smooth marketplace experience.
 
-👗 MNIST Fashion Image Classification with Random Forest
-Aug 2024 – Dec 2024
-- Implemented a Random Forest classifier to predict categories from the MNIST Fashion dataset, containing 60,000 labeled grayscale images of 10 fashion categories.
-- Achieved an accuracy of 87.39% by adjusting the model and tuning hyperparameters. 
+🚗 **Driving Tracker Web Application**  
+- Developed a full stack web application enabling users to track and analyze driving data, using JavaScript, Flask, SQL, and HTML/CSS. 
+- Applied Git-based version control practices including branching, pull requests, and code reviews to manage feature development and maintain project stability.
 
-🌐 Ultimate Frisbee Team Website Development
-Jan 2024 – May 2024
-- Designed and implemented a multi-page website with a Home page, About page, Roster, and an Interest Form for new members.
-- Used HTML for structure, CSS for responsive and visually appealing styling, and JavaScript for interactive elements such as form validation.
+🌐 **Ultimate Frisbee Team Website**  
+- Designed and implemented a multi-page website for the club Ultimate Frisbee team using HTML, CSS, and JavaScript, with responsive styling and interactive features such as form validation.
+- Met regularly with a simulated stakeholder to discuss website requirements, share progress updates, and make sure the final site met stakeholder expectations.
 
 ---
-🛠️ Technical Skills
 
-Languages: Java, C, C++, SQL, Python, JavaScript, HTML, CSS
+🛠️ Tech Stack
+**Programming Languages:** Python, Java, C, C++, SQL, JavaScript
+**Web Technologies:** HTML, CSS, Flask, Django, Bootstrap
+**Tools & Platforms:** Git, GitHub, Linux, Tableau, PostgreSQL
+**Concepts:** Object-Oriented Programming, Data Structures, Machine Learning Fundamentals, Debugging
 
-Frameworks: Flask, Bootstrap
 
-Tools: Git, Version Control, Linux
-
-Data Science: Data Cleaning, Data Analysis, Machine Learning Models
-
-Visualization: Tableau, Matplotlib, Seaborn
-
----
-🧑‍🤝‍🧑 Student Involvement
-
-🥏 Ultimate Frisbee Team Player & President-
-Aug 2022 – Present
-
-- Organized the Banc Run tournament as well as managed the teams budget.
 
