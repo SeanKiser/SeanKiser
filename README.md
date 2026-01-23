@@ -30,7 +30,7 @@ Hey, how’s it going? I’m a computer science student with a passion for solvi
 
 ---
 
-🛠️ Tech Stack
+🛠️ Tech Stack\
 **Programming Languages:** Python, Java, C, C++, SQL, JavaScript\
 **Web Technologies:** HTML, CSS, Flask, Django, Bootstrap\
 **Tools & Platforms:** Git, GitHub, Linux, Tableau, PostgreSQL\
