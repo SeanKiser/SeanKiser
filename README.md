@@ -10,7 +10,9 @@
 
 🧑‍💻 About Me
 
-Hey, how’s it going? I’m a computer science student with a passion for solving problems and turning ideas into real, working projects. I enjoy digging into data, building full-stack applications, and learning how things work under the hood. Ask me about my most recent project—I’m always excited to talk about what I’m building and what I’m learning next.
+I’m a passionate problem solver who enjoys turning ideas into real, working software. I love digging into tough challenges, learning new technologies, and building projects that people actually use. Currently my team and I are developing an online marketplace for students at UNC Charlotte, used for secure exchanges of goods and services. I’m always excited to talk about what I’m building and what I’m learning next.
+
+Outside of my academic and professional pursuits, I’m an active member of the Ultimate Frisbee team at UNC Charlotte, where I also serve as President. I led the organization of the annual Banc Run tournament and managed team finances. I also love bowling, when I'm not working or studying, I'm at the bowling alley.
 
 ---
 
