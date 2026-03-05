@@ -1,6 +1,7 @@
 👋 Hi, I’m Sean Kiser!
 
 🎓 Master’s in Computer Science 
+
 💻 Full-Stack Builder | Turning Data Into Insight | Dedicated Problem Solver
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sean-kiser/)  
