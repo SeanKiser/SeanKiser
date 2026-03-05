@@ -1,7 +1,7 @@
 👋 Hi, I’m Sean Kiser!
 
-🎓 Computer Science student at UNC Charlotte  
-💻 Aspiring Computer Scientist | Problem Solver | Builder  
+🎓 Master’s in Computer Science 
+💻 Full-Stack Builder | Turning Data Into Insight | Dedicated Problem Solver
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sean-kiser/)  
 📧 skiser18@charlotte.edu  
