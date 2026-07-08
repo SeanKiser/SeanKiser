@@ -5,7 +5,7 @@
 💻 Full-Stack Builder | Data Engineer | Problem Solver
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sean-kiser/)  
-🔗 [Portfolio](https://seankiser.github.io/)
+🔗 [Portfolio](https://seankiser.github.io/)  
 📧 skiser18@charlotte.edu  
 
 ---
