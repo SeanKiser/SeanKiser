@@ -6,6 +6,7 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sean-kiser/)  
 🔗 [Portfolio](https://seankiser.github.io/)
+
 📧 skiser18@charlotte.edu  
 
 ---
