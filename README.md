@@ -1,11 +1,9 @@
 ## 👋 Hi, I'm Sean Kiser
 
-🎓 Master's in Computer Science  
-💻 Full-Stack Builder | Data Engineer | Problem Solver  
+🎓 Master's in Computer Science
+💻 Full-Stack Builder | Data Engineer | Problem Solver
 
-🌐 [Portfolio](https://seankiser.github.io/)  
-💼 [LinkedIn](https://www.linkedin.com/in/sean-kiser/)  
-📧 [skiser18@charlotte.edu](mailto:skiser18@charlotte.edu)  
+🌐 [Portfolio](https://seankiser.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/sean-kiser/) · 📧 [skiser18@charlotte.edu](mailto:skiser18@charlotte.edu)
 
 ---
 
