@@ -1,12 +1,11 @@
-👋 Hi, I’m Sean Kiser!
+# 👋 Hi, I’m Sean Kiser!
 
 🎓 Master’s in Computer Science 
 
 💻 Full-Stack Builder | Data Engineer | Problem Solver
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sean-kiser/)  
-🔗 [Portfolio](https://seankiser.github.io/)
-
+🌐 [Portfolio](https://seankiser.github.io/)  
+💼 [LinkedIn](https://www.linkedin.com/in/sean-kiser/)  
 📧 skiser18@charlotte.edu  
 
 ---
